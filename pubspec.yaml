@@ -1,0 +1,15 @@
+   name: contract_management_app
+   description: A contract management app built with Flutter and Bloc.
+
+   environment:
+     sdk: ">=2.7.0 <3.0.0"
+
+   dependencies:
+     flutter:
+       sdk: flutter
+     flutter_bloc: ^6.0.6
+     equatable: ^1.2.5
+
+   dev_dependencies:
+     flutter_test:
+       sdk: flutter
